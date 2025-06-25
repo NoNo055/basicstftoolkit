@@ -63,5 +63,3 @@ NONO_055
 v001
 
 ---
-
-Ready for the next upgrade or a hardening guide, sir?
